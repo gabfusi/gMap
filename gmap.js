@@ -1,12 +1,12 @@
 
 /***
- *
- *
- *  MAP helper class for Google maps V3
- *
+ *  @author gabfusi / gabrielefusi.com
+ *  
+ *  MAP 
+ *  helper class for Google maps V3
  */
 
-MAP = {
+var MAP = {
     toGeocode: null
     , toDraw: null
     , places: new Array()
